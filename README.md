@@ -60,7 +60,8 @@ A/B testing (also known as split testing or bucket testing) is a method of compa
 In this practice case I used the dataset that I found in kaggle below : https://www.kaggle.com/yufengsui/mobile-games-ab-testing. And using Z test to measure hypothesis of it.
 
 dataset = 'cookies_data.csv'
-----------------------------------------------------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------------------------------------------
 Hopefully helpful
 
 
