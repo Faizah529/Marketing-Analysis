@@ -44,7 +44,8 @@ In this case I used a dataset of movies that I have used in collaborative filter
 Output of Content_Based Filtering is Film that has Similarity.
 
 dataset = 'dataset film.csv'
--------------------------------------------------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------------------------------------------
 # 4. Hybrid Filtering
 
 Hybrid filtering technique is a combination of multiple recommendation techniques like, merging collaborative filtering (CF) with content-based filtering (CB) or vice-versa. Hybrid Filtering get two technique:
