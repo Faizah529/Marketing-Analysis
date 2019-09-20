@@ -17,7 +17,9 @@ The dataset used here is a private dataset which is a dataset of class activitie
 In this case I use the source code from: https://github.com/coorty/apriori-agorithm-python. 
 
 Where will later be run at the command prompt. Input to run the code and minimum support value, minimum confidence value, and the item you want to research.
-The dataset used is the survey dataset of the goods to be purchased by Boothcamp friends with a maximum number of 3 items.
+The dataset used is the survey dataset of the goods to be purchased by Boothcamp friends with a maximum number of 3 items. 
+
+dataset= 'Dataset Transaksi'
 
 # Usage Example
 To run the program with dataset provided (in ./data/) and mininum support = 0.12, mininum confidence = 0.5 and return rules for Bread:
@@ -31,6 +33,8 @@ In this case, I use the dataset that I and my friends have collected by giving a
 
 Output of Collaborative Filtering is Recomendations Film to user.
 
+dataset = 'recomendations_data.ipynb'
+
 -------------------------------------------------------------------------------------------------------------------------------------------
 # 3. Content_Based Filtering
 Content-based filtering, also referred to as cognitive filtering, recommends items based on a comparison between similarity content of the items.
@@ -39,6 +43,7 @@ In this case I used a dataset of movies that I have used in collaborative filter
 
 Output of Content_Based Filtering is Film that has Similarity.
 
+dataset = 'dataset film.csv'
 -------------------------------------------------------------------------------------------------------------------------------------------
 # 4. Hybrid Filtering
 
@@ -53,6 +58,7 @@ A/B testing (also known as split testing or bucket testing) is a method of compa
 
 In this practice case I used the dataset that I found in kaggle below : https://www.kaggle.com/yufengsui/mobile-games-ab-testing. And using Z test to measure hypothesis of it.
 
+dataset = 'cookies_data.csv'
 ----------------------------------------------------------------------------------------------------------------------------------------------
 Hopefully helpful
 
