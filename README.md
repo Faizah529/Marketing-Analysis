@@ -19,7 +19,7 @@ In this case I use the source code from: https://github.com/coorty/apriori-agori
 Where will later be run at the command prompt. Input to run the code and minimum support value, minimum confidence value, and the item you want to research.
 The dataset used is the survey dataset of the goods to be purchased by Boothcamp friends with a maximum number of 3 items. 
 
-dataset= 'Dataset Transaksi'
+dataset= 'Dataset Transaksi For Market Basket Analysis'
 
 # Usage Example
 To run the program with dataset provided (in ./data/) and mininum support = 0.12, mininum confidence = 0.5 and return rules for Bread:
